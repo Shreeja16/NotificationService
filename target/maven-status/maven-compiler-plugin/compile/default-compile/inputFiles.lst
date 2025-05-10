@@ -1,0 +1,5 @@
+/home/lucifer/spring-boot-3-microservices-course/notification-service/src/main/java/com/notification/dto/NotificationEvent.java
+/home/lucifer/spring-boot-3-microservices-course/notification-service/src/main/java/com/notification/service/EmailService.java
+/home/lucifer/spring-boot-3-microservices-course/notification-service/src/main/java/com/notification/controller/EmailTestController.java
+/home/lucifer/spring-boot-3-microservices-course/notification-service/src/main/java/com/notification/NotificationServiceApplication.java
+/home/lucifer/spring-boot-3-microservices-course/notification-service/src/main/java/com/notification/kafka/NotificationListener.java

@@ -1,0 +1,23 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: notification-group
+      auto-offset-reset: earliest
+    listener:
+      missing-topics-fatal: false
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: 2023mt03524@wilp.bits-pilani.ac.in
+    password: sukrrxvphxelhodx
+    protocol: smtp
+    tls: true
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    from: 2023mt03524@wilp.bits-pilani.ac.in
